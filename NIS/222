@@ -1,0 +1,8 @@
+#! /bin/bash
+
+if [ -x "/bin/ls"];then
+echo "yyyyy"
+else
+echo "xxxx"
+fi
+

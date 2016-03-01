@@ -1,0 +1,49 @@
+    320 permit tcp host 192.168.32.16 any eq 1589
+    440 permit ip host 192.168.48.18 any
+    1090 permit ip any 192.168.222.0 0.0.0.255
+    1100 permit ip any 192.168.223.0 0.0.0.255
+    1110 permit ip any 192.168.1.0 0.0.0.255
+    1120 permit ip any 192.168.221.0 0.0.0.255
+    1130 permit ip any 172.30.0.0 0.0.255.255
+    3580 permit tcp host 192.168.32.16 any eq 1588
+    3590 permit tcp host 192.168.32.16 any eq 3388
+    3600 permit tcp host 192.168.32.16 any eq 3306
+    3610 deny tcp any any eq 1588
+    3620 deny tcp any any eq 3388
+    3630 deny tcp any any eq 3306
+    3640 permit ip any any
+    1140 permit tcp host 192.168.1.20 host 172.16.100.55 eq 1588
+    1180 permit ip host 192.168.65.14 10.10.100.0 0.0.0.255
+    1240 permit ip host 192.168.65.14 10.21.100.0 0.0.0.255
+    1300 permit ip host 192.168.65.14 172.16.100.0 0.0.0.255
+    1360 permit ip host 192.168.65.14 172.21.100.0 0.0.0.255
+    1420 permit ip host 192.168.65.14 172.29.0.0 0.0.255.255
+    1480 permit ip host 192.168.65.14 172.31.100.0 0.0.0.255
+    1540 permit ip host 192.168.65.14 172.30.100.0 0.0.0.255
+    1200 permit ip host 192.168.48.15 10.10.100.0 0.0.0.255
+    1260 permit ip host 192.168.48.15 10.21.100.0 0.0.0.255
+    1320 permit ip host 192.168.48.15 172.16.100.0 0.0.0.255
+    1380 permit ip host 192.168.48.15 172.21.100.0 0.0.0.255
+    1440 permit ip host 192.168.48.15 172.29.0.0 0.0.255.255
+    1500 permit ip host 192.168.48.15 172.31.100.0 0.0.0.255
+    1560 permit ip host 192.168.48.15 172.30.100.0 0.0.0.255
+    1390 permit ip host 192.168.48.11 172.29.0.0 0.0.255.255
+    1400 permit ip host 192.168.48.14 172.29.0.0 0.0.255.255
+    1410 permit ip host 192.168.48.13 172.29.0.0 0.0.255.255
+    1430 permit ip host 192.168.48.12 172.29.0.0 0.0.255.255
+    1680 permit tcp host 192.168.32.17 host 172.21.101.13 eq 1588
+    410 permit tcp host 192.168.32.17 host 10.10.10.98 eq 1588
+    1570 permit tcp host 192.168.32.17 host 172.16.122.101 eq 3388
+    1850 permit tcp host 192.168.32.17 host 172.21.130.101 eq 1588
+    1820 permit tcp host 192.168.32.17 host 172.16.1.98 eq 1588
+    2160 permit tcp host 192.168.32.17 host 172.16.1.98 eq 3388
+    2470 permit tcp host 192.168.32.17 host 172.16.1.98 eq 3306
+    2000 permit tcp host 192.168.32.17 host 172.29.199.3 eq 1588
+    2310 permit tcp host 192.168.32.17 host 172.29.199.3 eq 3388
+    2620 permit tcp host 192.168.32.17 host 172.29.199.3 eq 3306
+    1990 permit tcp host 192.168.32.17 host 172.29.199.5 eq 1588
+    2300 permit tcp host 192.168.32.17 host 172.29.199.5 eq 3388
+    2610 permit tcp host 192.168.32.17 host 172.29.199.5 eq 3306
+    2010 permit tcp host 192.168.32.17 host 172.29.199.7 eq 1588
+    2320 permit tcp host 192.168.32.17 host 172.29.199.7 eq 3388
+    2630 permit tcp host 192.168.32.17 host 172.29.199.7 eq 3306

@@ -1,0 +1,107 @@
+[1;42r[?25h[?8c[?25h[?0c[27m[24m[0m[H[J[?25l[?1c[42;1H"jmx-console.sh" "jmx-console.sh" 26L, 464C[1;1H[36m#! /bin/bash
+
+
+#for ip in `cat int_ip.txt`
+#do
+#url="http://$ip/jmx-console"
+#httpcode="curl -I -m 10 -o /dev/null -s -w %{http_code} http://$ip/jmx-console"
+#if [ $httpcode != 404];then
+#echo "$httpcode /r $url" >> jmx.log
+#done
+
+
+ip_a[0m=[33m"124.42.15."
+for[0m [35m(([0mi[33m=1;[0mi[33m<255;[0mi++[35m))[0m
+[33mdo[0m[17;5H[36murl[0m=[33m"http://[0m[35m$ip_a$i[0m[33m/jmx-console"[0m
+    [36mhttpcode[0m=[35m`curl -I -m [0m[33m1[0m[35m -o /dev/null -s -w %{http_code} http://$ip_a$i/jmx-console`[0m[20;5H[33mif[0m [33m[[0m [35m$httpcode[0m [33m!=[0m [33m000[0m [33m];then
+[0m    [33mecho "[0m[35m$httpcode[0m[33m :  [0m[35m$url[0m[33m"
+[0m    [33mfi
+
+done[0m
+
+
+[34m~                                                                                                                                            [28;1H~                                                                                                                                            [29;1H~                                                                                                                                            [30;1H~                                                                                                                                            [31;1H~                                                                                                                                            [32;1H~                                                                                                                                            [33;1H~                                                                                                                                            [34;1H~                                                                                                                                            [35;1H~                                                                                                                                            [36;1H~                                                                                                                                            [37;1H~                                                                                                                                            [38;1H~                                                                                                                                            [39;1H~                                                                                                                                            [40;1H~                                                                                                                                            [41;1H~                                                                                                                                            [18;5H[?25h[?0c[?25l[?1c[0m[42;1H输入  :quit<Enter>  退出 Vim[18;5H[?25h[?0c[?25l[?1c[42;5H  :quit<Enter>  [42;25H Vim[18;5H[?25h[?0c[?25l[?1c[42;5H  :quit<Enter>  [42;25H Vim[18;5H[?25h[?0c[?25l[?1c[42;1H[K[42;1H:[?25h[?0cq[?25l[?1c:q[?25h[?0c[?25l[?1c[?25h[?0c[42;1H[K[42;1H404 :  http://124.42.15.3/jmx-console
+404 :  http://124.42.15.6/jmx-console
+404 :  http://124.42.15.18/jmx-console
+404 :  http://124.42.15.65/jmx-console
+401 :  http://124.42.15.67/jmx-console
+404 :  http://124.42.15.68/jmx-console
+404 :  http://124.42.15.70/jmx-console
+404 :  http://124.42.15.73/jmx-console
+404 :  http://124.42.15.75/jmx-console
+404 :  http://124.42.15.76/jmx-console
+404 :  http://124.42.15.78/jmx-console
+404 :  http://124.42.15.79/jmx-console
+404 :  http://124.42.15.81/jmx-console
+404 :  http://124.42.15.86/jmx-console
+400 :  http://124.42.15.88/jmx-console
+404 :  http://124.42.15.89/jmx-console
+404 :  http://124.42.15.92/jmx-console
+404 :  http://124.42.15.93/jmx-console
+404 :  http://124.42.15.94/jmx-console
+400 :  http://124.42.15.95/jmx-console
+401 :  http://124.42.15.96/jmx-console
+404 :  http://124.42.15.97/jmx-console
+404 :  http://124.42.15.98/jmx-console
+401 :  http://124.42.15.99/jmx-console
+400 :  http://124.42.15.104/jmx-console
+400 :  http://124.42.15.106/jmx-console
+404 :  http://124.42.15.107/jmx-console
+404 :  http://124.42.15.108/jmx-console
+401 :  http://124.42.15.110/jmx-console
+404 :  http://124.42.15.116/jmx-console
+404 :  http://124.42.15.120/jmx-console
+404 :  http://124.42.15.124/jmx-console
+404 :  http://124.42.15.129/jmx-console
+404 :  http://124.42.15.135/jmx-console
+404 :  http://124.42.15.154/jmx-console
+404 :  http://124.42.15.162/jmx-console
+404 :  http://124.42.15.163/jmx-console
+404 :  http://124.42.15.165/jmx-console
+404 :  http://124.42.15.166/jmx-console
+404 :  http://124.42.15.167/jmx-console
+404 :  http://124.42.15.168/jmx-console
+404 :  http://124.42.15.169/jmx-console
+404 :  http://124.42.15.174/jmx-console
+404 :  http://124.42.15.178/jmx-console
+404 :  http://124.42.15.179/jmx-console
+404 :  http://124.42.15.180/jmx-console
+400 :  http://124.42.15.186/jmx-console
+404 :  http://124.42.15.195/jmx-console
+404 :  http://124.42.15.196/jmx-console
+404 :  http://124.42.15.197/jmx-console
+404 :  http://124.42.15.198/jmx-console
+404 :  http://124.42.15.201/jmx-console
+404 :  http://124.42.15.202/jmx-console
+404 :  http://124.42.15.203/jmx-console
+404 :  http://124.42.15.204/jmx-console
+404 :  http://124.42.15.205/jmx-console
+404 :  http://124.42.15.206/jmx-console
+404 :  http://124.42.15.207/jmx-console
+404 :  http://124.42.15.208/jmx-console
+404 :  http://124.42.15.209/jmx-console
+302 :  http://124.42.15.210/jmx-console
+302 :  http://124.42.15.211/jmx-console
+404 :  http://124.42.15.214/jmx-console
+404 :  http://124.42.15.215/jmx-console
+404 :  http://124.42.15.216/jmx-console
+404 :  http://124.42.15.217/jmx-console
+404 :  http://124.42.15.218/jmx-console
+404 :  http://124.42.15.221/jmx-console
+404 :  http://124.42.15.222/jmx-console
+404 :  http://124.42.15.226/jmx-console
+502 :  http://124.42.15.227/jmx-console
+200 :  http://124.42.15.231/jmx-console
+404 :  http://124.42.15.233/jmx-console
+200 :  http://124.42.15.235/jmx-console
+400 :  http://124.42.15.236/jmx-console
+302 :  http://124.42.15.238/jmx-console
+302 :  http://124.42.15.239/jmx-console
+404 :  http://124.42.15.240/jmx-console
+404 :  http://124.42.15.242/jmx-console
+301 :  http://124.42.15.243/jmx-console
+302 :  http://124.42.15.244/jmx-console
+302 :  http://124.42.15.245/jmx-console
+302 :  http://124.42.15.249/jmx-console
+404 :  http://124.42.15.250/jmx-console
+404 :  http://124.42.15.251/jmx-console

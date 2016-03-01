@@ -1,0 +1,99 @@
+============== activities.aliexpress.com =============
+activities.aliexpress.com. 600	IN	CNAME	activities-cn.gds.aliexpress.com.
+activities-cn.gds.aliexpress.com. 120 IN A	110.75.115.82
+============== ar.aliexpress.com =============
+ar.aliexpress.com.	600	IN	A	42.156.190.86
+============== brands.aliexpress.com =============
+brands.aliexpress.com.	600	IN	CNAME	activities.aliexpress.com.
+activities.aliexpress.com. 600	IN	CNAME	activities-cn.gds.aliexpress.com.
+activities-cn.gds.aliexpress.com. 120 IN A	110.75.115.82
+============== collections.aliexpress.com =============
+collections.aliexpress.com. 600	IN	CNAME	activities.aliexpress.com.
+activities.aliexpress.com. 600	IN	CNAME	activities-cn.gds.aliexpress.com.
+activities-cn.gds.aliexpress.com. 120 IN A	110.75.115.82
+============== de.aliexpress.com =============
+de.aliexpress.com.	600	IN	A	205.204.96.54
+de.aliexpress.com.	600	IN	A	198.11.132.241
+============== es.aliexpress.com =============
+es.aliexpress.com.	300	IN	A	42.156.190.86
+============== fr.aliexpress.com =============
+fr.aliexpress.com.	600	IN	A	198.11.132.241
+fr.aliexpress.com.	600	IN	A	205.204.96.54
+============== he.aliexpress.com =============
+he.aliexpress.com.	600	IN	A	42.156.190.86
+============== help.aliexpress.com =============
+help.aliexpress.com.	600	IN	CNAME	escrow.aliexpress.com.
+escrow.aliexpress.com.	600	IN	CNAME	escrow-cn.gds.aliexpress.com.
+escrow-cn.gds.aliexpress.com. 120 IN	A	140.205.94.54
+============== id.aliexpress.com =============
+id.aliexpress.com.	300	IN	A	42.156.190.86
+============== img.alibaba.com =============
+img.alibaba.com.	248	IN	CNAME	img.alibaba.com.danuoyi.tbcache.com.
+img.alibaba.com.danuoyi.tbcache.com. 15	IN A	125.39.199.50
+img.alibaba.com.danuoyi.tbcache.com. 15	IN A	125.39.199.40
+============== it.aliexpress.com =============
+it.aliexpress.com.	600	IN	A	205.204.96.54
+it.aliexpress.com.	600	IN	A	198.11.132.241
+============== ja.aliexpress.com =============
+ja.aliexpress.com.	600	IN	A	42.156.190.86
+============== ko.aliexpress.com =============
+ko.aliexpress.com.	600	IN	A	42.156.190.86
+============== login.aliexpress.com =============
+login.aliexpress.com.	600	IN	CNAME	login-cn.gds.aliexpress.com.
+login-cn.gds.aliexpress.com. 120 IN	A	42.156.220.70
+============== m.aliexpress.com =============
+m.aliexpress.com.	600	IN	CNAME	m-cn.gds.aliexpress.com.
+m-cn.gds.aliexpress.com. 120	IN	A	42.156.220.7
+============== my.aliexpress.com =============
+my.aliexpress.com.	600	IN	A	205.204.96.24
+my.aliexpress.com.	600	IN	A	198.11.132.28
+============== nl.aliexpress.com =============
+nl.aliexpress.com.	600	IN	A	205.204.96.54
+============== page.aliexpress.com =============
+page.aliexpress.com.	600	IN	A	140.205.94.223
+============== portals.aliexpress.com =============
+portals.aliexpress.com.	60	IN	A	205.204.96.50
+============== pt.aliexpress.com =============
+pt.aliexpress.com.	300	IN	A	42.156.190.86
+============== report.aliexpress.com =============
+report.aliexpress.com.	600	IN	A	198.11.132.85
+============== ru.aliexpress.com =============
+ru.aliexpress.com.	600	IN	A	42.156.190.86
+============== rule.alibaba.com =============
+rule.alibaba.com.	600	IN	CNAME	rule.gds.alibaba.com.
+rule.gds.alibaba.com.	120	IN	A	42.156.190.70
+============== shoppingcart.aliexpress.com =============
+shoppingcart.aliexpress.com. 600 IN	CNAME	shoppingcart-cn.gds.aliexpress.com.
+shoppingcart-cn.gds.aliexpress.com. 120	IN A	140.205.94.22
+============== style.aliunicorn.com =============
+style.aliunicorn.com.	3024	IN	CNAME	style-aliunicorn.alibaba.com.
+style-aliunicorn.alibaba.com. 3024 IN	CNAME	img.alibaba.com.danuoyi.tbcache.com.
+img.alibaba.com.danuoyi.tbcache.com. 14	IN A	125.39.199.40
+img.alibaba.com.danuoyi.tbcache.com. 14	IN A	125.39.199.50
+============== superdeals.aliexpress.com =============
+superdeals.aliexpress.com. 600	IN	CNAME	activities.aliexpress.com.
+activities.aliexpress.com. 599	IN	CNAME	activities-cn.gds.aliexpress.com.
+activities-cn.gds.aliexpress.com. 119 IN A	110.75.115.82
+============== th.aliexpress.com =============
+th.aliexpress.com.	600	IN	A	140.205.94.79
+th.aliexpress.com.	600	IN	A	42.156.190.86
+============== thirdparty.aliexpress.com =============
+thirdparty.aliexpress.com. 600	IN	A	205.204.96.38
+thirdparty.aliexpress.com. 600	IN	A	198.11.136.54
+============== trade.alibaba.com =============
+trade.alibaba.com.	600	IN	A	110.75.96.7
+============== tr.aliexpress.com =============
+tr.aliexpress.com.	600	IN	A	42.156.190.86
+============== us.ae.alibaba.com =============
+us.ae.alibaba.com.	600	IN	CNAME	us.ae.gds.alibaba.com.
+us.ae.gds.alibaba.com.	120	IN	A	198.11.132.41
+============== us.ae.aliexpress.com =============
+us.ae.aliexpress.com.	377	IN	A	205.204.96.11
+us.ae.aliexpress.com.	377	IN	A	198.11.132.41
+============== vi.aliexpress.com =============
+vi.aliexpress.com.	600	IN	A	42.156.190.86
+============== www.alibabagroup.com =============
+www.alibabagroup.com.	243	IN	A	198.11.188.4
+============== www.aliexpress.com =============
+www.aliexpress.com.	441	IN	A	140.205.94.79
+www.aliexpress.com.	441	IN	A	42.156.190.86

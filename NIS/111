@@ -1,0 +1,17 @@
+#! /bin/bash
+
+# deploy portmap or rpcbind
+Portmap="/etc/init.d/portmap"
+Rpcbind="/etc/init.d/rpcbind"
+
+if [ -x "$Portmap"]; then
+echo "portmap"
+#service portmap restart
+#chkconfig --level 35 portmap on
+elif [ -x "$Rpcbind"]; then
+echo "rpcbind"
+#service ypbind restart
+#chkconfig --level 35 ypbind on
+else
+echo "Error: No find portmap or rpcbind service"
+fi

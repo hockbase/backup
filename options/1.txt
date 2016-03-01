@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: dhgatenginx/1.0.5
+Date: Tue, 16 Feb 2016 18:50:32 GMT
+Content-Type: httpd/unix-directory
+Connection: keep-alive
+Allow: GET,HEAD,POST,OPTIONS
+Vary: Accept-Encoding,User-Agent
+Content-Length: 0
+srv_id: 172.21.20.231:80
+Set-Cookie: vid=rBAUZVbDb3ioUz6aA3lAAg==; expires=Mon, 12-Nov-18 18:50:32 GMT; domain=dhgate.com; path=

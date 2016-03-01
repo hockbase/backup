@@ -1,0 +1,125 @@
+============== activities.aliexpress.com =============
+activities.aliexpress.com. 318	IN	A	205.204.96.224
+activities.aliexpress.com. 318	IN	A	198.11.132.30
+============== ar.aliexpress.com =============
+ar.aliexpress.com.	284	IN	CNAME	ar.gds.aliexpress.com.
+ar.gds.aliexpress.com.	17	IN	A	198.11.132.241
+============== brands.aliexpress.com =============
+brands.aliexpress.com.	194	IN	CNAME	activities.aliexpress.com.
+activities.aliexpress.com. 194	IN	A	205.204.96.224
+activities.aliexpress.com. 194	IN	A	198.11.132.30
+============== collections.aliexpress.com =============
+collections.aliexpress.com. 541	IN	CNAME	activities.aliexpress.com.
+activities.aliexpress.com. 541	IN	A	205.204.96.224
+activities.aliexpress.com. 541	IN	A	198.11.132.30
+============== de.aliexpress.com =============
+de.aliexpress.com.	176	IN	CNAME	de.gds.aliexpress.com.
+de.gds.aliexpress.com.	115	IN	A	198.11.132.241
+============== es.aliexpress.com =============
+es.aliexpress.com.	86	IN	CNAME	es.aliexpress.com.edgesuite.net.
+es.aliexpress.com.edgesuite.net. 17378 IN CNAME	a1121.b.akamai.net.
+a1121.b.akamai.net.	19	IN	A	72.246.103.25
+a1121.b.akamai.net.	19	IN	A	72.246.103.27
+============== fr.aliexpress.com =============
+fr.aliexpress.com.	149	IN	CNAME	fr.gds.aliexpress.com.
+fr.gds.aliexpress.com.	14	IN	A	198.11.132.241
+============== he.aliexpress.com =============
+he.aliexpress.com.	105	IN	CNAME	he.aliexpress.com.edgesuite.net.
+he.aliexpress.com.edgesuite.net. 20526 IN CNAME	a675.b.akamai.net.
+a675.b.akamai.net.	19	IN	A	72.246.103.27
+a675.b.akamai.net.	19	IN	A	72.246.103.26
+============== help.aliexpress.com =============
+help.aliexpress.com.	441	IN	CNAME	escrow.aliexpress.com.
+escrow.aliexpress.com.	141	IN	CNAME	escrow.gds.aliexpress.com.
+escrow.gds.aliexpress.com. 87	IN	A	198.11.132.43
+============== id.aliexpress.com =============
+id.aliexpress.com.	87	IN	CNAME	id.gds.aliexpress.com.
+id.gds.aliexpress.com.	119	IN	A	205.204.96.54
+============== img.alibaba.com =============
+img.alibaba.com.	1793	IN	CNAME	img.alibaba.com.edgesuite.net.
+img.alibaba.com.edgesuite.net. 17 IN	CNAME	a1049.w55.akamai.net.
+a1049.w55.akamai.net.	19	IN	A	88.221.132.114
+a1049.w55.akamai.net.	19	IN	A	88.221.132.98
+============== it.aliexpress.com =============
+it.aliexpress.com.	107	IN	CNAME	it.gds.aliexpress.com.
+it.gds.aliexpress.com.	48	IN	A	198.11.132.241
+============== ja.aliexpress.com =============
+ja.aliexpress.com.	166	IN	CNAME	ja.aliexpress.com.edgesuite.net.
+ja.aliexpress.com.edgesuite.net. 21561 IN CNAME	a253.b.akamai.net.
+a253.b.akamai.net.	19	IN	A	72.246.103.25
+a253.b.akamai.net.	19	IN	A	72.246.103.26
+============== ko.aliexpress.com =============
+ko.aliexpress.com.	177	IN	CNAME	ko.gds.aliexpress.com.
+ko.gds.aliexpress.com.	106	IN	A	198.11.132.241
+============== login.aliexpress.com =============
+login.aliexpress.com.	279	IN	CNAME	login.gds.aliexpress.com.
+login.gds.aliexpress.com. 95	IN	A	205.204.96.34
+============== m.aliexpress.com =============
+m.aliexpress.com.	107	IN	A	198.11.132.53
+m.aliexpress.com.	107	IN	A	205.204.96.56
+============== my.aliexpress.com =============
+my.aliexpress.com.	224	IN	A	205.204.96.24
+my.aliexpress.com.	224	IN	A	198.11.132.28
+============== nl.aliexpress.com =============
+nl.aliexpress.com.	127	IN	CNAME	nl.gds.aliexpress.com.
+nl.gds.aliexpress.com.	46	IN	A	205.204.96.54
+============== page.aliexpress.com =============
+page.aliexpress.com.	39	IN	CNAME	page.gds.aliexpress.com.
+page.gds.aliexpress.com. 95	IN	A	198.11.132.181
+============== portals.aliexpress.com =============
+portals.aliexpress.com.	84	IN	CNAME	portals.gds.aliexpress.com.
+portals.gds.aliexpress.com. 21	IN	A	205.204.96.50
+============== pt.aliexpress.com =============
+pt.aliexpress.com.	181	IN	CNAME	pt.aliexpress.com.edgesuite.net.
+pt.aliexpress.com.edgesuite.net. 6456 IN CNAME	a739.b.akamai.net.
+a739.b.akamai.net.	19	IN	A	72.246.103.26
+a739.b.akamai.net.	19	IN	A	72.246.103.25
+============== report.aliexpress.com =============
+report.aliexpress.com.	26	IN	CNAME	report.gds.aliexpress.com.
+report.gds.aliexpress.com. 29	IN	A	198.11.132.85
+============== ru.aliexpress.com =============
+ru.aliexpress.com.	221	IN	CNAME	ru.aliexpress.com.edgesuite.net.
+ru.aliexpress.com.edgesuite.net. 21033 IN CNAME	a1554.b.akamai.net.
+a1554.b.akamai.net.	19	IN	A	72.246.103.24
+a1554.b.akamai.net.	19	IN	A	72.246.103.26
+============== rule.alibaba.com =============
+rule.alibaba.com.	485	IN	CNAME	rule.gds.alibaba.com.
+rule.gds.alibaba.com.	34	IN	A	42.156.190.70
+============== shoppingcart.aliexpress.com =============
+shoppingcart.aliexpress.com. 229 IN	A	205.204.96.31
+shoppingcart.aliexpress.com. 229 IN	A	198.11.132.56
+============== style.aliunicorn.com =============
+style.aliunicorn.com.	209	IN	CNAME	style-aliunicorn.alibaba.com.
+style-aliunicorn.alibaba.com. 209 IN	CNAME	style.aliunicorn.com.edgesuite.net.
+style.aliunicorn.com.edgesuite.net. 471	IN CNAME a1049.w55.akamai.net.
+a1049.w55.akamai.net.	19	IN	A	88.221.132.98
+a1049.w55.akamai.net.	19	IN	A	88.221.132.114
+============== superdeals.aliexpress.com =============
+superdeals.aliexpress.com. 269	IN	CNAME	activities.aliexpress.com.
+activities.aliexpress.com. 269	IN	A	198.11.132.30
+activities.aliexpress.com. 269	IN	A	205.204.96.224
+============== th.aliexpress.com =============
+th.aliexpress.com.	139	IN	CNAME	th.gds.aliexpress.com.
+th.gds.aliexpress.com.	81	IN	A	198.11.132.241
+============== thirdparty.aliexpress.com =============
+thirdparty.aliexpress.com. 219	IN	CNAME	thirdparty.gds.aliexpress.com.
+thirdparty.gds.aliexpress.com. 97 IN	A	205.204.96.38
+============== trade.alibaba.com =============
+trade.alibaba.com.	80	IN	A	205.204.96.7
+============== tr.aliexpress.com =============
+tr.aliexpress.com.	195	IN	CNAME	tr.gds.aliexpress.com.
+tr.gds.aliexpress.com.	74	IN	A	205.204.96.54
+============== us.ae.alibaba.com =============
+us.ae.alibaba.com.	597	IN	CNAME	us.ae.gds.alibaba.com.
+us.ae.gds.alibaba.com.	117	IN	A	198.11.132.41
+============== us.ae.aliexpress.com =============
+us.ae.aliexpress.com.	496	IN	A	205.204.96.11
+us.ae.aliexpress.com.	496	IN	A	198.11.132.41
+============== vi.aliexpress.com =============
+vi.aliexpress.com.	185	IN	CNAME	vi.gds.aliexpress.com.
+vi.gds.aliexpress.com.	107	IN	A	198.11.132.241
+============== www.alibabagroup.com =============
+www.alibabagroup.com.	185	IN	A	198.11.132.52
+============== www.aliexpress.com =============
+www.aliexpress.com.	260	IN	A	198.11.132.241
+www.aliexpress.com.	260	IN	A	205.204.96.54
